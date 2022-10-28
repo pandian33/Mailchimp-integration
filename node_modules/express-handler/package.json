@@ -1,0 +1,31 @@
+{
+  "name": "express-handler",
+  "version": "0.2.0",
+  "description": "Provide a per-request `this` object for express router handlers.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/huandu/express-handler.git"
+  },
+  "keywords": [
+    "express",
+    "handler",
+    "utility",
+    "backtrace",
+    "debug",
+    "bind"
+  ],
+  "author": "Huan Du",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/huandu/express-handler/issues"
+  },
+  "homepage": "https://github.com/huandu/express-handler",
+  "dependencies": {
+    "underscore": "^1.7.0"
+  },
+  "devDependencies": {
+    "express": "4.*"
+  }
+}
